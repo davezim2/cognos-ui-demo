@@ -1,1 +1,1 @@
-# northerntrust-cognos-multitenant-ui
+# cognos-ui-demo

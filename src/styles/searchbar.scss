@@ -1,0 +1,18 @@
+.searchBar--container {
+    border: 0px dashed red;
+    display: grid;
+    grid-template-columns: 3% 3% auto 40%;
+    align-items: center;
+
+    button {
+        border: none;
+        background-color: none;
+    }
+
+}
+
+.searchBar--search {
+    border-bottom: 1px solid gray;
+    grid-column: 4 / 5;
+
+}
